@@ -16,7 +16,6 @@ public:
 	{
 		key = NULL;
 		value = -1;
-
 	}
 
 
